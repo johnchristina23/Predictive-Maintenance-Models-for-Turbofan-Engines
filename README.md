@@ -49,8 +49,8 @@ Run-to-failure trajectories
 Python, NumPy, Pandas, TensorFlow / Keras, scikit-learn, Matplotlib
 
 ## How to Run
-git clone https://github.com/your-username/your-repo-name.git
-jupyter notebook mjema_ENGR501_project\ code.ipynb
+git clone https:[https://github.com/johnchristina23/Predictive-Maintenance-Models-for-Turbofan-Engines.git]
+jupyter notebook mjema_ENGR501_project code.ipynb
 
 ## Repository Contents
 
